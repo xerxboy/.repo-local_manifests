@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="platform_system_sepolicy" />
-  <project name="syberia-project/platform_system_sepolicy" path="system/sepolicy" remote="github" revision="10.0" />
-  <remove-project name="device_qcom_sepolicy" />
-  <project name="syberia-project/platform_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="10.0" />
-  <remove-project name="device_aosip_sepolicy" />
-  <project name="xerxboy/platform_device_syberia_sepolicy" path="device/aosip/sepolicy" remote="github" revision="10.0" />
+ 
 </manifest>
