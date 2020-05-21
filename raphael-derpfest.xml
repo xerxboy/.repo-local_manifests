@@ -5,4 +5,6 @@
   <project name="xerxboy/vendor_raphael" path="vendor/xiaomi/raphael" remote="github" revision="ten" />
   <project name="xerxboy/vendor_MiuiCamera" path="vendor/MiuiCamera" remote="github" revision="master" />
   <project name="Haseo97/Avalon-Clang-11.0.1" path="prebuilts/clang/host/linux-x86/clang-avalon" remote="github" revision="11.0.1" depth="1" />
+  <project name="xerxboy/platform_venv" path="venv" remote="github" revision="master" />
+
 </manifest>
